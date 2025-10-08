@@ -94,6 +94,6 @@ This stops and removes all running containers, networks, and volumes created by 
 
 Google drive link : https://drive.google.com/file/d/1Nb1YfU2dW3xu3O8U1064ezPr85fLraua/view?usp=sharing
 
-youtube link : https://youtu.be/nZyTi0KulVU?si=5LstxEyzI1sRjJsM
+
 
 
