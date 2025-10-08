@@ -68,26 +68,32 @@ git clone https://github.com/Sreeshna22/MovieReview-website-.git
 🐳 Running the Application with Docker
 
 🚀 Build & Run the Containers
-docker compose up --build
+
+
+    docker compose up --build
 
 
 This command builds the Docker images (if not already built) and starts all containers defined in your docker-compose.yml.
 
 🛑 Stop the Containers
-docker compose down
+
+     docker compose down
 
 
 This stops and removes all running containers, networks, and volumes created by docker compose up.
 
 🔍 Check Running Containers
-docker ps
+
+       docker ps
+
+ Lists all currently running containers with their names, ports, and statuses.
 
 
-Lists all currently running containers with their names, ports, and statuses.
+
 🎥 Demo Vedio Link
-     
-      Google drive link : https://drive.google.com/file/d/1Nb1YfU2dW3xu3O8U1064ezPr85fLraua/view?usp=sharing
 
-     youtube link : https://youtu.be/nZyTi0KulVU?si=5LstxEyzI1sRjJsM
+Google drive link : https://drive.google.com/file/d/1Nb1YfU2dW3xu3O8U1064ezPr85fLraua/view?usp=sharing
+
+youtube link : https://youtu.be/nZyTi0KulVU?si=5LstxEyzI1sRjJsM
 
 
