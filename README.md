@@ -16,13 +16,13 @@ The entire app is containerized using Docker, allowing it to run seamlessly with
 
 ⚙️ Tech Stack
 
-Frontend: React, Tailwind CSS
+🔧 Frontend: React, Tailwind CSS
 
-Backend: Node.js, Express.js
+🔧 Backend: Node.js, Express.js
 
-Database: MongoDB
+🔧 Database: MongoDB
 
-Containerization: Docker, Docker Compose
+🔧  Containerization: Docker, Docker Compose
 
 
 
@@ -44,47 +44,48 @@ Containerization: Docker, Docker Compose
 
 
 
-🐳 Run Instructions (with Docker Compose)
+🚀 Getting Started
 
 
+⚡️Prerequisites
 
-Installation  
+Make sure you have the following installed on your system:
 
-1️⃣ Clone the Repository
+Node.js
 
+MongoDB
+
+Docker
+
+🔧Installation
+Clone the repository:
 
 git clone https://github.com/Sreeshna22/MovieReview-website-.git
-cd MovieReview
+
+ cd MovieReview
 
 
-
-2️⃣ Set Up Environment Variables
-
-
-Create a .env file in the project root directory. Add the necessary environment variables (PORT, JWT secret, etc.).
+🐳 Running the Application with Docker
 
 
-
-3️⃣ Docker Setup
-
-
-docker-compose up --build -d
+Build & Run the Containers:🚀
 
 
-4️⃣ Access the Application
+docker compose up --build
+
+Stopping the Containers:🚀
+
+docker compose down
+
+Check Running Containers:🚀
+
+docker ps
 
 
-Once the containers are up, visit localhost:3000 to access the app.
-
-
-
-
-
-
-Demo Video Link 🚀
+🎥 Demo Vedio Link
      
-    📌  Google drive link : https://drive.google.com/file/d/1Nb1YfU2dW3xu3O8U1064ezPr85fLraua/view?usp=sharing
+      Google drive link : https://drive.google.com/file/d/1Nb1YfU2dW3xu3O8U1064ezPr85fLraua/view?usp=sharing
 
-    📌 youtube link : https://youtu.be/nZyTi0KulVU?si=5LstxEyzI1sRjJsM
+     youtube link : https://youtu.be/nZyTi0KulVU?si=5LstxEyzI1sRjJsM
 
 
